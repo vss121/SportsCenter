@@ -6,21 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="ca9a1687-7357-49dc-8023-c66cb0f536e6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsCenterApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SportsCenterApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/api/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/api/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/api/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/api/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/loginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/loginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/loginPage.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/loginPage.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SportsCenterApp/gui/mainPage.jfd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/loginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gui/mainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/mainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/mainPage.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/mainPage.jfd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +154,19 @@
       <workItem from="1670507375301" duration="596000" />
       <workItem from="1670508957459" duration="254000" />
       <workItem from="1670515560800" duration="1204000" />
+      <workItem from="1670584692511" duration="1133000" />
+      <workItem from="1670585865479" duration="2733000" />
+      <workItem from="1670654103128" duration="128000" />
+      <workItem from="1670660052196" duration="363000" />
+      <workItem from="1670660450445" duration="435000" />
+      <workItem from="1670660914738" duration="11000" />
+      <workItem from="1670660949573" duration="7349000" />
+      <workItem from="1670675729757" duration="1851000" />
+      <workItem from="1670808237413" duration="3213000" />
+      <workItem from="1670863406342" duration="1389000" />
+      <workItem from="1670901226244" duration="46000" />
+      <workItem from="1670901298553" duration="2646000" />
+      <workItem from="1670976214326" duration="2747000" />
     </task>
     <servers />
   </component>
